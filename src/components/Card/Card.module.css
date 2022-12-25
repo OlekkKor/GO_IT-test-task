@@ -1,0 +1,17 @@
+.Card {
+    position:relative;
+    width: 454px;
+    height: 547px; 
+    text-align: center;
+    background-image: url('../images/picture.png'), linear-gradient(
+      114.99deg,
+      #471ca9 -0.99%,
+      #5736a3 54.28%,
+      #4b2a99 78.99%
+    );
+    background-repeat: no-repeat;
+    background-position: 50px 30px, center center;
+    box-shadow: -3px 8px 24px rgba(0, 0, 0, 0.23);
+    border-radius: 24px;
+    
+  }
