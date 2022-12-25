@@ -1,6 +1,6 @@
 import { Component } from 'react';
 import css from './User.module.css';
-import imgUser from '../../components/images/Hansel.svg';
+import imgUser from '../../images/Hansel.svg';
 
 export class User extends Component {
   render() {
