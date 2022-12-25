@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/goit-react-hw-02-phonebook/static/css/main.a6c61bea.css",
-    "main.js": "/goit-react-hw-02-phonebook/static/js/main.ee04cc29.js",
-    "static/media/Hansel.svg": "/goit-react-hw-02-phonebook/static/media/Hansel.719b7540e05a62ee49564a12d98fbc24.svg",
-    "static/media/Montserrat-SemiBold.ttf": "/goit-react-hw-02-phonebook/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
-    "static/media/Montserrat-Medium.ttf": "/goit-react-hw-02-phonebook/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/picture.png": "/goit-react-hw-02-phonebook/static/media/picture.34e32962ae5a68310ba7.png",
-    "index.html": "/goit-react-hw-02-phonebook/index.html",
-    "main.a6c61bea.css.map": "/goit-react-hw-02-phonebook/static/css/main.a6c61bea.css.map",
-    "main.ee04cc29.js.map": "/goit-react-hw-02-phonebook/static/js/main.ee04cc29.js.map"
+    "main.css": "/GO_IT-test-task/static/css/main.e1513dec.css",
+    "main.js": "/GO_IT-test-task/static/js/main.3a282e82.js",
+    "static/media/Hansel.svg": "/GO_IT-test-task/static/media/Hansel.719b7540e05a62ee49564a12d98fbc24.svg",
+    "static/media/Montserrat-SemiBold.ttf": "/GO_IT-test-task/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-Medium.ttf": "/GO_IT-test-task/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
+    "static/media/picture.png": "/GO_IT-test-task/static/media/picture.34e32962ae5a68310ba7.png",
+    "index.html": "/GO_IT-test-task/index.html",
+    "main.e1513dec.css.map": "/GO_IT-test-task/static/css/main.e1513dec.css.map",
+    "main.3a282e82.js.map": "/GO_IT-test-task/static/js/main.3a282e82.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6c61bea.css",
-    "static/js/main.ee04cc29.js"
+    "static/css/main.e1513dec.css",
+    "static/js/main.3a282e82.js"
   ]
 }
