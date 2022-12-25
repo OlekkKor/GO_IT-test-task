@@ -7,17 +7,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
-  max-width: 1200px;
-  min-width: 400px;
-  display: flex;
-  justify-content: center;
-  margin: 0 auto;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+    url('./fonts/Montserrat-Medium.ttf') format('truetype');
+  font-weight: medium;
+  font-family: 'Montserrat';
+  src: local('Montserrat'),
+    url('./fonts/Montserrat-SemiBold.ttf') format('truetype');
+  font-weight: bold;
 }
 
 

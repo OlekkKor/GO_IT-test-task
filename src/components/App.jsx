@@ -26,7 +26,6 @@ export class App extends Component {
     this.setState(prevState => {
       return { isFollowed: !prevState.isFollowed };
     });
-    console.log(this.state.isFollowed);
     this.onChangeFollowers();
   };
 
