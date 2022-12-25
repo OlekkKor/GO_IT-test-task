@@ -1,1 +1,1 @@
-# GO_IT-test-task
+# goit-react-hw-02-phonebook
